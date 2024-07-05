@@ -1,2 +1,4 @@
 # hello-world
-this is practice repo
+i am mandar barve.
+a student of goa uni.
+i have a white activa.
